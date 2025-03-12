@@ -11,8 +11,11 @@ e transmissão correta das informações preteridas inicialmente.
 
 ## Correções
 - **Melhor escolha de gráficos**: Há, no Dashboard inicial, a utlização de gráficos incorretamente. Por exemplo, utiliza-se gráficos de pizza e rosca para transmissão de informações com mais de 5 categorias.
+
 - **Correção de informações percentuais**: Há, no Dashboard inicial, gráficos que transmitem informações absolutas como percentuais.
+
 - **Correção de filtragens**: Há, no Dashboard inicial, gráficos que realizam a filtragem incorretamente, como de 'N' top vendedores. 
+
 - **Correção da harmonia**: Há falta de harmonia e organização dos gráficos utilizados, havendo a necessidade de reconstrução.
 
 ## Arquivos
