@@ -9,13 +9,24 @@ mais complexas, buscam corrigir informações incorretas que estão presentes de
 Ao final, apresenta-se um Dashboard reconstruído, redesenhado para melhor harmonia de cores
 e transmissão correta das informações preteridas inicialmente.
 
+## Correções
+- **Melhor escolha de gráficos**: Há, no Dashboard inicial, a utlização de gráficos incorretamente. Por exemplo, utiliza-se gráficos de pizza e rosca para transmissão de informações com mais de 5 categorias.
+- **Correção de informações percentuais**: Há, no Dashboard inicial, gráficos que transmitem informações absolutas como percentuais.
+- **Correção de filtragens**: Há, no Dashboard inicial, gráficos que realizam a filtragem incorretamente, como de 'N' top vendedores. 
+- **Correção da harmonia**: Há falta de harmonia e organização dos gráficos utilizados, havendo a necessidade de reconstrução.
+
 ## Arquivos
 Há, na pasta 'arquivos', o arquivo usado para construção do Dashboard inicial (incorreto),
 que também foi usado para construção do Dashboard final, redesenhado.
 
 ## Dashboards
-Há, na pasta 'Dashboards', o link separadamente para cada relatório, onde ambos poderão
-ser consultados para verificação de diferenças e correções aplicadas.
+Abaixo, estão os links para cada relatório. Ambos podem ser consultados para verificação das diferenças e correções aplicadas.
+
+- **Link para o Dashboard inicial**:  
+  [https://app.powerbi.com/groups/me/reports/ff4a2d25-09d5-4711-aa2c-1970234ce801/ReportSection?experience=power-bi](https://app.powerbi.com/groups/me/reports/ff4a2d25-09d5-4711-aa2c-1970234ce801/ReportSection?experience=power-bi)
+
+- **Link para o Dashboard corrigido**:  
+  [https://app.powerbi.com/groups/me/reports/889bbe23-4dc7-4f49-99d3-2bb86c3cc099/ReportSection?experience=power-bi](https://app.powerbi.com/groups/me/reports/889bbe23-4dc7-4f49-99d3-2bb86c3cc099/ReportSection?experience=power-bi)
 
 ---
 
